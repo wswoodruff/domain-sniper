@@ -25,7 +25,7 @@
     "@hapi/eslint-config-hapi": "12.x.x",
     "@hapi/eslint-plugin-hapi": "4.x.x",
     "@hapi/glue": "6.x.x",
-    "@hapi/hapi": "18.x.x",
+    "@hapi/hapi": "19.x.x",
     "@hapi/lab": "18.x.x",
     "confidence": "4.x.x",
     "dotenv": "8.x.x",
